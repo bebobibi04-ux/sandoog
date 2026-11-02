@@ -45,16 +45,11 @@ En säker självskattning är ingen verifierad kunskapsnivå och kan inte övers
 
 ## GitHub Pages
 
-Sidan är förberedd för publicering direkt från repositoryts rot. I en inloggad GitHub-session:
+[Öppna den publicerade Biologi 2-kursen](https://bebobibi04-ux.github.io/sandoog/).
 
-1. Öppna **Settings → Pages** i `bebobibi04-ux/sandoog`.
-2. Välj **Build and deployment → Source → Deploy from a branch**.
-3. Välj **main** och **/(root)**, sedan **Save**.
-4. Vänta tills GitHub visar ett lyckat Pages-bygge. Öppna adressen som GitHub returnerar.
+Repositoryt har gjorts offentligt efter ägarens uttryckliga godkännande. GitHub Pages är aktiverat med **Deploy from a branch → main → /(root)**. Webbplatsen kan öppnas utan GitHub- eller ChatGPT-inloggning. Nya ändringar på main publiceras via GitHub Pages.
 
-Repositoryt är privat. Pages i privata repositoryn kräver en plan som stöder det, exempelvis GitHub Pro. GitHub Free stöder Pages från publika repositoryn. Repositoryts synlighet har inte ändrats automatiskt. Se [GitHubs dokumentation](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
-
-Anslutningen i den här miljön kan skriva repositoryfiler men erbjuder inga Pages-administrationsverktyg. Webbläsarsessionen var inte inloggad på GitHub. En Pages-publicering ska därför inte betraktas som verifierad bara för att källan ligger här.
+Länk till kursen: https://bebobibi04-ux.github.io/sandoog/
 
 ## Bygga och kontrollera
 
