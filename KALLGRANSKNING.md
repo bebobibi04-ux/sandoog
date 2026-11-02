@@ -64,3 +64,15 @@ Lärarens ursprungliga PowerPoint-filer, hela filmer och alla bokfoton har inte 
 ## Gränser för bedömningen
 
 Kursen tränar begrepp, mekanism, tillämpning och resonemang var för sig och tillsammans. Självbedömningen visar centrala biologiska poänger; den ersätter inte lärarens bedömning. Det finns ingen nyckelordsrättning, automatisk AI-bedömning eller påhittad betygsprognos.
+
+## Riktad slutoptimering 2 november 2026
+
+Jämförelsen mot samma Biologiatlas-underlag visade att tidsförlopp vid ATP-brist, osmosens permeabilitets- och tryckvillkor, genöverföring/urval och centrala organellsamband redan var förklarade. Dessa undervisningsdelar har behållits. Alla ursprungliga 28 kärnfrågor och 12 provfrågor, inklusive modeller, har oförändrade kontrollsummor.
+
+Antibiotikakapitlets kärntext har kompletterats med 95 ord om smalt/brett spektrum, normal mikrobiota, selektion och villkor för ett biologiskt motiverat preparatval. Spektrum skiljs från styrka; smalt preparat antas inte skona hela normalfloran. En ny tillämpning prövar mekanismerna utan att bli en medicinsk behandlingsguide. Kontrollstöd: [NHS England, kompetensram för antibiotikaresistens och ansvarsfull användning](https://www.england.nhs.uk/long-read/amr-and-ams-pharmacy-undergraduate-competency-framework/).
+
+Källans växtdel innehåller mossor, kärlväxter och fröväxter. En kort orsakskedja om transportvävnad, vattenförsörjning och befruktning utan fri vattenfilm har därför lagts under Bör kunna. Den ingår med två minuter i växtpasset. Artlistor och fullständiga livscykler prioriteras inte.
+
+Fyra ändrade situationer tränar överföring av samma mekanismer. Eget försök före modell, konkreta kriterier och återkallning efter paus är pedagogiska designval. [Butler 2010](https://pubmed.ncbi.nlm.nih.gov/20804289/) visar i experiment att upprepad återkallning kan förbättra överföring jämfört med omläsning. Studien validerar inte just denna kurs, dess sex timmar eller en viss elevs betyg.
+
+Kärntexten i kapitlens sex undervisningssteg växte från cirka 2 580 till 2 675 ord, ungefär 3,7 procent. Den siffran omfattar inte frågefeedback eller valbar fördjupning. Standardplanen räknar 360 minuter inklusive egna svar, jämförelse, repetition och slutkontroll. Tidsåtgången är uppskattad; inget användartest med en elev under sex timmar har genomförts.

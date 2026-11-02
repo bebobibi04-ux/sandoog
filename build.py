@@ -5,7 +5,7 @@ root=Path(__file__).resolve().parent
 out=root/'dist'
 out.mkdir(exist_ok=True)
 page=(root/'index.template.html').read_text(encoding='utf-8')
-for marker,name in [('CSS','style.css'),('DATA','data.js'),('ENGINE','engine.js'),('APP','app.js')]:
+for marker,name in [('CSS','style.css'),('DATA','data.js'),('PRACTICE','practice-data.js'),('ENGINE','engine.js'),('APP','app.js')]:
  content=(root/name).read_text(encoding='utf-8')
  if marker!='CSS': content=re.sub(r'</script',r'<\/script',content,flags=re.I)
  page=page.replace(f'/* INJECT_{marker} */',content)

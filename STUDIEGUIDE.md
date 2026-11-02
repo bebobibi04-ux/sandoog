@@ -21,10 +21,20 @@ Målet är provförmåga per minut: en korrekt orsakskedja som kan användas i f
 | Mikrobernas värld | 40 min | Jämförelser, Gram och genöverföring behövs för resistensförståelsen. |
 | Antibiotika & resistens | 45 min | Stark koppling mellan molekyl, cell, population och samhälle. |
 | Växtcellen | 25 min | Delar grund med cellkapitlet; fokusera på vägg, vakuol, turgor och kloroplast. |
-| Diagnos, blandad repetition och självständig provträning | 85 min | Visar om mekanismerna går att hämta fram och använda utan stöd. |
-| **Totalt** | **360 min** | Pauser ingår inte i den effektiva tiden. |
+| **Ämnesandelar, sammanlagt** | **275 min** | Grova riktmärken, inte extra lästid utöver sexpasschemat. |
 
-Ämnesandelarna är riktmärken för hela kursen. Det konkreta sexpasschemat i webbplatsen räknar varje aktivitet en gång. Samband använder flera ämnen samtidigt och är inte extratid utöver planen.
+Ämnesandelarna fördelar stoffets tyngd och överlappar olika arbetssätt. Det konkreta sexpasschemat räknar varje aktivitet en gång. Använd följande uppdelning för att kontrollera hela tidsbudgeten:
+
+| Aktivitet | Effektiva minuter |
+| --- | ---: |
+| Inlärning av de sju delkapitlen | 156 |
+| Diagnos, aktiv återkallning, samband och reparation av luckor | 138 |
+| Fyra egna fullständiga provsvar, inklusive jämförelse | 45 |
+| Fyra ändrade situationer, inklusive jämförelse och reparation | 16 |
+| Avslutande kontroll: tre korta situationer | 5 |
+| **Totalt** | **360** |
+
+Detta är en uppskattning för planering, inte en empiriskt uppmätt tidsåtgång. Använd passens tidsgränser och lägg reparationstiden på den viktigaste luckan. Läs inte alla valbara frågor ovanpå standardprogrammet.
 
 Prioriteringen bedömer centralitet, användbarhet i flera provfrågor, betydelse som förkunskap och tidskostnad. Det är ett genomtänkt utbildningsupplägg, ingen uppmätt sannolikhet för lärarens frågor.
 
@@ -38,15 +48,19 @@ Prioriteringen bedömer centralitet, användbarhet i flera provfrågor, betydels
 
 För öppna svar: **påstående → mekanism → konsekvens → relevant villkor**. Besvara det frågan faktiskt ber om. Lägg inte till ovidkommande kapitel bara för att du kan dem.
 
+Skriv före modellen. När den öppnas sparas ditt försök för jämförelse. Kryssa bara i poänger du faktiskt förklarade före facit; tomma rutor blir konkreta repetitionsuppgifter. Om du behöver läsa stöd direkt kan du göra det, men testa sedan på nytt med tomt fält. En första säker markering ska följas av ett nytt försök efter minst tio minuter. Egna muntliga svar eller svar på papper går också att använda; då måste du själv jämföra ärligt.
+
 ## Minimiprogram: 180 minuter kvar
 
 Alla sju kärnor behålls, ungefär 140 minuter sammanlagt. Därtill 15 minuter återkallning och 25 minuter eget provsvar med självbedömning. Börja med de viktigaste luckorna enligt planen. Hoppa över extraavsnitt, historiska siffror och långa namnlistor. Detta minskar djupet; det är en prioritering när tiden minskar, inte ett likvärdigt löfte om resultat.
 
 ## Standardprogram: 360 effektiva minuter
 
-Följ de sex studiepass som visas på startsidan och i studieplanen. Måndagen lär in de nödvändiga transport- och resistensmodellerna. Tisdagen börjar med återkallning efter natten, täcker växtcellen och tränar egna svar. Tisdagskvällen används till en sista tillämpning och konkreta luckor.
+Följ de sex studiepass som visas på startsidan och i studieplanen: 65 + 65 + 65 + 40 + 85 + 40 minuter. Måndagens 235 minuter lär in transport- och resistensmodellerna och innehåller tre korta variationer. Tisdagens 125 minuter börjar med återkallning efter natten, täcker växtcellen och innehåller variationen om ett transportprotein på fel plats. De fyra fullständiga svaren är fråga 2, 4, 13 och 3. Sista fem minuterna är avsatta för slutkontrollen. Modellsvar och självbedömning ingår i övningstiderna.
 
-## Extraprogram: 450 minuter kvar
+**Måste kunna:** kapitlens kärnmodeller, kärnfrågor och schemalagda övningar. **Bör kunna:** fördjupning som utvecklar en aktuell mekanism och växtkapitlets tvåminuterskedja om landliv. **Extra:** övriga provfrågor, taxonomiska detaljer och märkt extra fördjupning, bara om tid återstår inom din budget.
+
+## Valbart extraprogram: 450 minuter, utanför sextimmarsprogrammet
 
 Behåll kärnprogrammet och lägg till viktig fördjupning och mer kvalificerade frågor, särskilt frågor 7, 9, 11 och 12. Utveckla alternativa förklaringar, prövbara förutsägelser och begränsningar. Lägg inte extratiden på ytterligare hundratals enkla kort.
 
